@@ -1,2 +1,4 @@
 <h1>Who Am I</h1>
 <?php echo system('whoami'); ?>
+<h1>hostname</h1>
+<?php echo system('hostname'); ?>
