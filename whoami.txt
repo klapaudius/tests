@@ -1,4 +1,4 @@
 <h1>Who Am I</h1>
-<?php echo system('whoami'); ?>
+<?php print( system('whoami') ); ?>
 <h1>hostname</h1>
-<?php echo system('hostname'); ?>
+<?php print( system('hostname') ); ?>
